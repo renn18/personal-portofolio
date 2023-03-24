@@ -1,0 +1,56 @@
+const Data = [
+    {
+      id: 1,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2020 - present",
+      title: "University State of Makassar (UNM)",
+      link: "https://unm.ac.id/",
+      desc: 'Diploma IV | Faculty of Engineering - Software Engineer. Recent GPA: 3.5',
+    },
+    {
+      id: 2,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2017 - 2020",
+      title: "Senior High School 4 State of Luwu",
+      link: "",
+      desc: "Natural Science, Grades: 8.4/10",
+    },
+    {
+      id: 3,
+      category: "education",
+      icon: "icon-graduation",
+      year: "2014 - 2017",
+      title: "Junior High School 1 State Bua Ponrang",
+      link: "",
+      desc: "Natural Science, Grades: 8.7/10",
+    },
+    {
+      id: 4,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2019 - present",
+      title: "Full-Stack Web Developer",
+      link: "",
+      desc: "MERN Stack (MongoDB, Express, React, Node.js), Tailwind, Bootstrap, Vite, Vue, Angular, Javascript, HTML CSS",
+    },
+    {
+      id: 5,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2020-2021",
+      title: "SEO Writer/Copywriting (Freelance - Fiverr)",
+      desc: "Create content for blog website, optimizing keyword for manage contents",
+    },
+    {
+      id: 6,
+      category: "experience",
+      icon: "icon-briefcase",
+      year: "2018 - 2020",
+      title: "IT Support (Vi Art Studio, Makassar)",
+      desc: "Troubleshooting network, PC, and software.",
+    },
+  ];
+  
+export default Data
